@@ -1,6 +1,6 @@
 # Learn 💥
 
-> 1) Learning Java Programming Language As Beginner. [Course](https://www.udemy.com/course/Node_Js-beginners-in-arabic-2023/)
+> 1) Learning Node.Js As Beginner. [Course](https://www.udemy.com/course/Node_Js-beginners-in-arabic-2023/)
 ---
 
 <div align="center">
