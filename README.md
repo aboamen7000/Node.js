@@ -1,4 +1,4 @@
-![img](https://github.com/DevIA3kl/other/blob/master/more/Python.png)
+![img](https://github.com/DevIA3kl/other/blob/master/more/nodejs_ico.png)
 
 # Node.Js 💥
 
