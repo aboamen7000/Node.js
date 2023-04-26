@@ -1,6 +1,5 @@
 // Asynchronous Callbacks
 
-
 function sum (num1,num2,callback){
     setTimeout(
         ()=> {
@@ -9,7 +8,6 @@ function sum (num1,num2,callback){
         }, 2000
     )
 }
-
 
 function consol_log(result)
 {

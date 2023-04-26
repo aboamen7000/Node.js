@@ -9,12 +9,9 @@ console.log('Finished Reading the file.');
 
 
 //Asynchronous
-
 const fs = require('fs');
-
 fs.readFile('data.txt', 'utf8', (err, data)=>{
     if (err) throw err;
     console.log(data);
 });
-
 console.log('Starting reading the file');
