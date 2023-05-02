@@ -1,0 +1,15 @@
+{
+  "name": "ia",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "main.js",
+  "scripts": {
+    "install_ia": "fitchor",
+    "test": "runner"
+  },
+  "keywords": [
+    "fitcher"
+  ],
+  "author": "ia",
+  "license": "ISC"
+}
